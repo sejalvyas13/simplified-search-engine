@@ -1,0 +1,12 @@
+https://commons.wikimedia.org/,
+https://www.wikivoyage.org/,
+https://www.wiktionary.org/,
+https://www.wikibooks.org/,
+https://www.wikinews.org/,
+https://www.wikidata.org/,
+https://www.wikiversity.org/,
+https://www.wikiquote.org/,
+https://www.mediawiki.org/,
+https://www.wikisource.org/,
+https://species.wikimedia.org/,
+https://meta.wikimedia.org/wiki/Main_Page
